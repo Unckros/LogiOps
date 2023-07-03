@@ -1,6 +1,6 @@
 # LogiOps
 <p>// Instalação: </p>
-<p>yay -Suy logiops-git </p>
+<p>'''yay -Suy logiops-git'''' </p>
 <p>cd /tmp </p> 
 <p>mkdir git</p>
 <p>cd git</p>
